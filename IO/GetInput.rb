@@ -1,3 +1,3 @@
 puts "Enter your name: "
-name = gets
-puts ("Hello " + name)
+name = gets.chomp()
+puts ("Hello " + name + ",You are cool !")
