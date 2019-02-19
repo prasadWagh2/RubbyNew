@@ -1,0 +1,16 @@
+Hi
+This is the text file
+wagh.prasad2011@gmail.com
+vbhumbar123@gmail.com
+https://chat.whatsapp.com/IHaa3O7Ga5JI0IcjuwHsDE
+
+puts "Hello world"
+puts "Prasad Wagh"
+puts "Deepali"
+puts "PrasadWDS"
+puts "vikas"
+
+
+[remote "origin"]
+url="htt
+Ruby is simple language !!!Ruby is simple language !!!Ruby is simple language !!!Ruby is simple language !!!Ruby is simple language !!!
